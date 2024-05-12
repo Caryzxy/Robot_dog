@@ -456,14 +456,14 @@ void loop()
 
   if (current_distance < target_distance_close)
   {
-    float speed_calc = (target_distance_far-current_distance)/70*100;
+    float speed_calc = (target_distance_far-current_distance)/70*100; //velocity gain is 100 here, safe maximum is 255
     long speed_round = round(speed_calc);
     motor_left_command(speed_round);
     motor_right_command(speed_round);
   }
   else if(current_distance > target_distance_far)
   {
-    float speed_calc = (current_distance-target_distance_close)/80*100;
+    float speed_calc = (current_distance-target_distance_close)/80*100; //velocity gain is 100 here, safe maximum is 255
     long speed_round = round(speed_calc);
     motor_left_command(-speed_round);
     motor_right_command(-speed_round);
