@@ -12,3 +12,7 @@ To design the range of distance that the dog will stay inactive, change the targ
 design the rate of speed:
 Change line 459 and 466, adjust the denominator and velocity gain
 
+
+For more detail, see the webpage for it:
+https://www.robotdog16299.com/
+
