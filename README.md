@@ -1,18 +1,17 @@
 # Robot_dog
 
-Test1_Ultrasonic: The orinigal code that enable movements based on the sensor reading
+Test1_Ultrasonic: The original code that enables movements based on the sensor reading
 
-Test1_Ultrasonic_Lv2: A little updrade based on the orignial code. It will now adjust its speed based on the distance
+Test1_Ultrasonic_Lv2: A little upgrade based on the original code. It will now adjust its speed based on the distance
 
 Customizing the code:
 
-design the size of safe range or the ideal distance to stop:
+design the size of the safe range or the ideal distance to stop:
 To design the range of distance that the dog will stay inactive, change the target_distance in terms of ultrasonic sensor units
 
 design the rate of speed:
 Change line 459 and 466, adjust the denominator and velocity gain
 
 
-For more detail, see the webpage for it:
-https://www.robotdog16299.com/
 
+![Alt Text](images/outline.png)
