@@ -19,4 +19,4 @@ Change line 459 and 466, adjust the denominator and velocity gain
 ![suggestions](images/suggestions.png)
 
 [Watch the Demo](https://www.youtube.com/watch?v=Dg3bt1gdHls&t=3s)
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Dg3bt1gdHls&t=3s" frameborder="0" allowfullscreen></iframe>
+
