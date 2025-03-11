@@ -14,6 +14,6 @@ Change line 459 and 466, adjust the denominator and velocity gain
 
 
 
-![Alt Text](images/outline.png)
-![Alt Text](images/detail_design.png)
-![Alt Text](images/suggestion.png)
+![outline](images/outline.png)
+![detail_design](images/detail_design.png)
+![suggestions](images/suggestion.png)
